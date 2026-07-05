@@ -1,7 +1,7 @@
 discord: @.bashley
 
 ```bash
-git add .
+git add .env
 git commit -m "good luck!"
 git push origin master --force
 ```
